@@ -24,11 +24,10 @@
 - **Total de Estrellas Recibidas:** 100
 - **Tiempo Total en GitHub:** ¡Inserta tu tiempo total aquí! (puedes calcularlo usando herramientas como WakaTime o GitHub Insights)
 
+## Redes Sociales
+¡Conéctate conmigo en mis redes sociales!
+- [Twitter](https://twitter.com/TuNombre)
+- [LinkedIn](https://www.linkedin.com/in/TuNombre)
+- [Instagram](https://www.instagram.com/TuNombre)
+
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas colaborar en algún proyecto, ¡no dudes en contactarme!
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/El-Nava/El-Nava/output/snake.svg" alt="Snake animation" />
-
-###
