@@ -53,6 +53,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/El-Nava/El-Nava/output/snake.svg" alt="Snake animation" />
-
 ###
