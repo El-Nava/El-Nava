@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Jesús Nava - Portada</title>
+  <desc id="desc">Ilustración ondulada con degradado que presenta a Jesús Nava como ingeniero de software.</desc>
+  <defs>
+    <linearGradient id="heroGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="45%" stop-color="#1e3a8a" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+    <linearGradient id="flare" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.35)" />
+      <stop offset="100%" stop-color="rgba(255,255,255,0)" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="36" fill="url(#heroGradient)" />
+  <g opacity="0.35">
+    <circle cx="180" cy="120" r="160" fill="#38bdf8" />
+    <circle cx="1020" cy="40" r="120" fill="#2563eb" />
+    <circle cx="980" cy="300" r="180" fill="#0ea5e9" />
+  </g>
+  <rect x="120" y="60" width="960" height="240" rx="28" fill="rgba(15,23,42,0.55)" stroke="rgba(255,255,255,0.08)" stroke-width="2" />
+  <text x="180" y="140" fill="#f8fafc" font-size="44" font-family="'Poppins', 'Segoe UI', sans-serif" font-weight="700">Jesús Nava</text>
+  <text x="180" y="190" fill="#e2e8f0" font-size="24" font-family="'Poppins', 'Segoe UI', sans-serif" font-weight="500">Ingeniero en Sistemas · Arquitecto de soluciones · Mentor tecnológico</text>
+  <text x="180" y="232" fill="#bae6fd" font-size="18" font-family="'Nunito', 'Segoe UI', sans-serif" font-weight="400">
+    Diseño experiencias digitales escalables y humanas combinando automatización, datos y software confiable.
+  </text>
+  <g transform="translate(180 256)">
+    <rect width="360" height="8" rx="4" fill="rgba(226,232,240,0.35)" />
+    <rect width="220" height="8" rx="4" fill="url(#flare)" />
+  </g>
+  <g transform="translate(180 280)" font-family="'Nunito', 'Segoe UI', sans-serif" font-weight="600" font-size="16" fill="#f1f5f9">
+    <text>⚡ Entrego soluciones de punta a punta · 🤝 Trabajo codo a codo con equipos multidisciplinarios · 🚀 Creo productos listos para crecer</text>
+  </g>
+</svg>

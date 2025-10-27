@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="44" role="img" aria-label="Discord">
+  <defs>
+    <linearGradient id="discordGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#312e81" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="166" height="40" rx="14" fill="url(#discordGradient)" stroke="rgba(248,250,252,0.45)" stroke-width="2" />
+  <text x="85" y="27" fill="#f8fafc" font-size="16" text-anchor="middle" font-family="'Poppins', 'Segoe UI', sans-serif" font-weight="600">Hablemos</text>
+</svg>

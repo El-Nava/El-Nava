@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" role="img" aria-label="Ola decorativa">
+  <defs>
+    <linearGradient id="footerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0ea5e9" />
+      <stop offset="50%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#4338ca" />
+    </linearGradient>
+  </defs>
+  <path d="M0 80 C120 20 300 20 480 80 C660 140 840 140 1020 80 C1100 50 1200 60 1200 60 V160 H0 Z" fill="url(#footerGradient)" />
+</svg>
