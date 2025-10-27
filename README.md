@@ -2,10 +2,22 @@
   <img src="./assets/sections/hero.svg" alt="Jesús Nava - Ingeniero en sistemas" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/El-Nava" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1200&color=14F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&lines=%C2%A1Hola!+Soy+Jes%C3%BAs+Nava;Ingeniero+en+sistemas+y+maker+de+automatizaciones;Impulso+procesos+industriales+y+digitales" alt="Animación de texto presentando a Jesús Nava" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=El-Nava&color=brightgreen&style=flat-square" alt="Contador de visitas al perfil" />
+  <img src="https://img.shields.io/github/followers/El-Nava?label=Seguidores&logo=github&style=flat-square" alt="Seguidores de GitHub" />
+  <img src="https://img.shields.io/badge/Automatizaciones-IoT%20%7C%20Software-blueviolet?style=flat-square" alt="Sello de enfoque profesional" />
+</p>
+
 ## ✨ En resumen
-- 👨‍💻 **Ingeniero en Sistemas** especializado en crear plataformas que conectan procesos físicos y digitales.
-- 🧭 **Lidero proyectos end-to-end**, desde la ideación hasta la puesta en marcha y el monitoreo de resultados.
-- 🌐 **Combino automatización, IoT y desarrollo de software** para acelerar equipos de negocio y tecnología.
+- 👨‍💻 **Ingeniero en Sistemas** especializado en conectar la capa física y digital con soluciones confiables.
+- 🧭 **Diseño estrategias end-to-end** para productos, automatizaciones y plataformas listos para escalar.
+- 🌐 **Fomento culturas de datos y colaboración** con tableros vivos, métricas y documentación accionable.
 
 <p align="center">
   <img src="./assets/sections/divider.svg" alt="Separador decorativo" />
@@ -14,58 +26,82 @@
 ## 🚀 Propuesta de valor
 | Estrategia | Ingeniería | Impacto |
 | --- | --- | --- |
-| 🎯 Diseños centrados en objetivos medibles y roadmaps claros para stakeholders. | 🛠️ Arquitecturas modulares con pruebas automatizadas y despliegues confiables. | 📈 Métricas compartidas que evidencian adopción, reducción de costos y tiempo de entrega. |
+| 🎯 Roadmaps con hitos medibles y narrativa clara para stakeholders técnicos y de negocio. | 🛠️ Arquitecturas modulares, pruebas automatizadas y despliegues continuos. | 📈 Métricas compartidas que evidencian adopción, reducción de costos y velocidad de entrega. |
 
-## 🧰 Stack principal
+## 🔥 Ritmo y métricas en vivo
 <p align="center">
-  <img src="./assets/badges/python.svg" alt="Python" />
-  <img src="./assets/badges/csharp.svg" alt="C#" />
-  <img src="./assets/badges/dotnet.svg" alt=".NET" />
-  <img src="./assets/badges/cpp.svg" alt="C++" />
-  <img src="./assets/badges/arduino.svg" alt="Arduino" />
-  <img src="./assets/badges/sql.svg" alt="SQL y datos" />
-  <img src="./assets/badges/html.svg" alt="HTML5" />
-  <img src="./assets/badges/css.svg" alt="CSS3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=El-Nava&theme=algolia&no-frame=true&margin-w=8&margin-h=8" alt="Trofes y logros de GitHub" />
 </p>
 
-## 📈 Impacto medible
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=El-Nava&show_icons=true&theme=radical&hide_title=false&include_all_commits=true&count_private=true" alt="Estadísticas generales de GitHub" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=El-Nava&theme=radical&hide_border=true" alt="Racha de contribuciones" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=El-Nava&bg_color=0d1117&color=58a6ff&line=ff6e96&point=f1e05a&area=true&hide_border=true" alt="Gráfica de actividad de GitHub" />
+</p>
+
 <p align="center">
   <img src="./assets/sections/metrics.svg" alt="Resumen de experiencia, proyectos y automatizaciones" />
 </p>
 
+## 🧰 Tech stack y herramientas
+**Lenguajes y frameworks principales**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,cpp,arduino,html,css,js" alt="Lenguajes principales" />
+</p>
+
+**Bases de datos, nubes y automatización**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,azure,aws,linux,docker,git,github" alt="Bases de datos y herramientas" />
+</p>
+
+**Dominios de conocimiento complementarios**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,figma,ps,pr" alt="Dominios complementarios" />
+</p>
+
+> ✅ Me siento cómodo integrando hardware con software, optimizando pipelines de datos y diseñando experiencias para equipos técnicos y operativos.
+
 ## 🏗️ Proyectos destacados
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>Plataformas de automatización</h3>
-        <p>Integraciones que orquestan APIs, limpian datos y activan flujos inteligentes para acelerar operaciones.</p>
-        <p><strong>Resultado:</strong> reducción de hasta 40% en tiempos de entrega y visibilidad centralizada.</p>
-        <p><a href="https://github.com/El-Nava?tab=repositories" target="_blank">Explorar entregables</a></p>
-      </td>
-      <td width="50%">
-        <h3>Aplicaciones .NET de misión crítica</h3>
-        <p>Soluciones de escritorio y web con C# y .NET, diseñadas para áreas administrativas y control industrial.</p>
-        <p><strong>Resultado:</strong> dashboards accionables, trazabilidad y despliegues automatizados.</p>
-        <p><a href="https://github.com/El-Nava?tab=repositories" target="_blank">Ver casos de éxito</a></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3>Experimentos embebidos</h3>
-        <p>Prototipos con Arduino y C/C++ que conectan sensores, controlan dispositivos y alimentan tableros en tiempo real.</p>
-        <p><strong>Resultado:</strong> validaciones rápidas y transferencia de conocimiento a equipos de ingeniería.</p>
-        <p><a href="https://github.com/El-Nava?tab=repositories" target="_blank">Ver prototipos</a></p>
-      </td>
-      <td width="50%">
-        <h3>Playbooks de colaboración</h3>
-        <p>Documentación clara, tableros compartidos y métricas vivas para mantener alineados a stakeholders técnicos y de negocio.</p>
-        <p><strong>Resultado:</strong> comunicación transparente y decisiones respaldadas por datos.</p>
-        <p><a href="https://github.com/El-Nava?tab=repositories" target="_blank">Descubrir herramientas</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
+<details open>
+  <summary><strong>Automation Hub</strong> · Orquestador de procesos</summary>
+  <p>
+    Plataforma que une APIs, sensores IoT y bots RPA para automatizar tareas críticas. Incluye monitoreo en tiempo real y tableros ejecutivos.
+  </p>
+  <p>
+    <a href="https://github.com/El-Nava?tab=repositories&q=automation" target="_blank">Explorar casos de automatización</a>
+  </p>
+</details>
+
+<details>
+  <summary><strong>Control Rooms .NET</strong> · Aplicaciones industriales</summary>
+  <p>
+    Suites de escritorio y web en C#/.NET para control de inventario, trazabilidad y visualización de indicadores.
+  </p>
+  <p>
+    <a href="https://github.com/El-Nava?tab=repositories&q=dotnet" target="_blank">Ver soluciones de misión crítica</a>
+  </p>
+</details>
+
+<details>
+  <summary><strong>Experimentación embebida</strong> · Prototipos con Arduino & C++</summary>
+  <p>
+    Dispositivos conectados, telemetría en vivo y dashboards que aceleran la validación con equipos de campo.
+  </p>
+  <p>
+    <a href="https://github.com/El-Nava?tab=repositories&q=arduino" target="_blank">Revisar prototipos</a>
+  </p>
+</details>
+
+## 🐍 La serpiente de contribuciones nunca duerme
+<p align="center">
+  <img src="https://github.com/El-Nava/El-Nava/blob/output/github-contribution-grid-snake.svg" alt="Animación de la serpiente de contribuciones" />
+</p>
 
 ## 🎯 Cómo puedo ayudarte
 - ✅ Auditorías técnicas para identificar cuellos de botella y oportunidades de automatización.
