@@ -1,56 +1,92 @@
-<h2 align="left">¡Hola! 👋 Soy Jesús Nava, Ingeniero en Sistemas de Chihuahua, Mx</h2>
+<p align="center">
+  <img src="./assets/sections/hero.svg" alt="Jesús Nava - Ingeniero en sistemas" />
+</p>
 
-###
+## ✨ En resumen
+- 👨‍💻 **Ingeniero en Sistemas** especializado en crear plataformas que conectan procesos físicos y digitales.
+- 🧭 **Lidero proyectos end-to-end**, desde la ideación hasta la puesta en marcha y el monitoreo de resultados.
+- 🌐 **Combino automatización, IoT y desarrollo de software** para acelerar equipos de negocio y tecnología.
 
+<p align="center">
+  <img src="./assets/sections/divider.svg" alt="Separador decorativo" />
+</p>
+
+## 🚀 Propuesta de valor
+| Estrategia | Ingeniería | Impacto |
+| --- | --- | --- |
+| 🎯 Diseños centrados en objetivos medibles y roadmaps claros para stakeholders. | 🛠️ Arquitecturas modulares con pruebas automatizadas y despliegues confiables. | 📈 Métricas compartidas que evidencian adopción, reducción de costos y tiempo de entrega. |
+
+## 🧰 Stack principal
+<p align="center">
+  <img src="./assets/badges/python.svg" alt="Python" />
+  <img src="./assets/badges/csharp.svg" alt="C#" />
+  <img src="./assets/badges/dotnet.svg" alt=".NET" />
+  <img src="./assets/badges/cpp.svg" alt="C++" />
+  <img src="./assets/badges/arduino.svg" alt="Arduino" />
+  <img src="./assets/badges/sql.svg" alt="SQL y datos" />
+  <img src="./assets/badges/html.svg" alt="HTML5" />
+  <img src="./assets/badges/css.svg" alt="CSS3" />
+</p>
+
+## 📈 Impacto medible
+<p align="center">
+  <img src="./assets/sections/metrics.svg" alt="Resumen de experiencia, proyectos y automatizaciones" />
+</p>
+
+## 🏗️ Proyectos destacados
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=El-Nava&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <!--<img src="https://streak-stats.demolab.com?user=El-Nava&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=El-Nava&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>Plataformas de automatización</h3>
+        <p>Integraciones que orquestan APIs, limpian datos y activan flujos inteligentes para acelerar operaciones.</p>
+        <p><strong>Resultado:</strong> reducción de hasta 40% en tiempos de entrega y visibilidad centralizada.</p>
+        <p><a href="https://github.com/El-Nava?tab=repositories" target="_blank">Explorar entregables</a></p>
+      </td>
+      <td width="50%">
+        <h3>Aplicaciones .NET de misión crítica</h3>
+        <p>Soluciones de escritorio y web con C# y .NET, diseñadas para áreas administrativas y control industrial.</p>
+        <p><strong>Resultado:</strong> dashboards accionables, trazabilidad y despliegues automatizados.</p>
+        <p><a href="https://github.com/El-Nava?tab=repositories" target="_blank">Ver casos de éxito</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3>Experimentos embebidos</h3>
+        <p>Prototipos con Arduino y C/C++ que conectan sensores, controlan dispositivos y alimentan tableros en tiempo real.</p>
+        <p><strong>Resultado:</strong> validaciones rápidas y transferencia de conocimiento a equipos de ingeniería.</p>
+        <p><a href="https://github.com/El-Nava?tab=repositories" target="_blank">Ver prototipos</a></p>
+      </td>
+      <td width="50%">
+        <h3>Playbooks de colaboración</h3>
+        <p>Documentación clara, tableros compartidos y métricas vivas para mantener alineados a stakeholders técnicos y de negocio.</p>
+        <p><strong>Resultado:</strong> comunicación transparente y decisiones respaldadas por datos.</p>
+        <p><a href="https://github.com/El-Nava?tab=repositories" target="_blank">Descubrir herramientas</a></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+## 🎯 Cómo puedo ayudarte
+- ✅ Auditorías técnicas para identificar cuellos de botella y oportunidades de automatización.
+- ✅ Diseño y desarrollo de MVPs listos para recibir feedback real de usuarios.
+- ✅ Modernización de soluciones heredadas con foco en mantenibilidad y seguridad.
+- ✅ Implementación de tableros y reportes que hacen visibles los indicadores clave.
 
-<img align="right" height="255" src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
+## 🤝 Conecta conmigo
+<div align="center">
+  <a href="mailto:j.navaa15@gmail.com"><img src="./assets/badges/gmail.svg" alt="Escríbeme por correo" /></a>
+  <a href="https://www.linkedin.com/in/jesus-m-nava-c-a19a27271" target="_blank"><img src="./assets/badges/linkedin.svg" alt="Conecta en LinkedIn" /></a>
+  <a href="https://www.instagram.com/jnava.15" target="_blank"><img src="./assets/badges/instagram.svg" alt="Inspiración en Instagram" /></a>
+  <a href="https://www.discord.com/El-Navaa" target="_blank"><img src="./assets/badges/discord.svg" alt="Hablemos en Discord" /></a>
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/jnava.15"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="https://www.discord.com/El-Navaa"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="mailto:j.navaa15@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/jesus-m-nava-c-a19a27271"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-</div>
+<p align="center">
+  <em>"La tecnología es la herramienta que transforma ideas en impacto."</em>
+</p>
 
-###
-
-<br clear="both">
-
-###
+<p align="center">
+  <img src="./assets/sections/footer.svg" alt="Ola decorativa final" />
+</p>
