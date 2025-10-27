@@ -58,6 +58,55 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=El-Nava&layout=compact&theme=dracula&langs_count=6" height="165" alt="Top Languages" />
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=22&duration=3500&pause=800&center=true&vCenter=true&width=650&lines=Ingeniero+en+Sistemas+orientado+a+resultados;Diseñando+soluciones+robustas+y+escalables;Apasionado+por+automatizar+y+mejorar+procesos" alt="Presentación animada" />
+</p>
+
+<p align="center">
+  <strong>Ingeniero en Sistemas | Desarrollador de software | Apasionado por crear soluciones tecnológicas que generan impacto</strong>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Divisor animado" width="75%" />
+</p>
+
+## 🚀 Sobre mí
+- 📍 Radico en Chihuahua, México.
+- 💼 Ingeniero en Sistemas enfocado en el desarrollo de aplicaciones robustas y escalables.
+- 🎯 Interesado en proyectos donde la tecnología impulsa resultados reales para las personas y los negocios.
+- 🌱 Siempre aprendiendo sobre arquitectura de software, patrones de diseño y mejores prácticas de desarrollo.
+
+## 🧠 ¿Qué me distingue?
+- Enfoque metódico para el diseño de soluciones end-to-end.
+- Trabajo colaborativo y comunicación efectiva con equipos multidisciplinarios.
+- Mentalidad orientada a la mejora continua y automatización de procesos.
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=El-Nava&theme=dracula&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Logros destacados" />
+</p>
+
+## 🛠️ Stack principal
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+</div>
+
+## 📊 Métricas e insights
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=El-Nava&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" alt="Racha de contribuciones" />
 </div>
