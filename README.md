@@ -58,8 +58,57 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=El-Nava&layout=compact&theme=dracula&langs_count=6" height="165" alt="Top Languages" />
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=22&duration=3500&pause=800&center=true&vCenter=true&width=650&lines=Ingeniero+en+Sistemas+orientado+a+resultados;Diseñando+soluciones+robustas+y+escalables;Apasionado+por+automatizar+y+mejorar+procesos" alt="Presentación animada" />
+</p>
+
+<p align="center">
+  <strong>Ingeniero en Sistemas | Desarrollador de software | Apasionado por crear soluciones tecnológicas que generan impacto</strong>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Divisor animado" width="75%" />
+</p>
+
+## 🚀 Sobre mí
+- 📍 Radico en Chihuahua, México.
+- 💼 Ingeniero en Sistemas enfocado en el desarrollo de aplicaciones robustas y escalables.
+- 🎯 Interesado en proyectos donde la tecnología impulsa resultados reales para las personas y los negocios.
+- 🌱 Siempre aprendiendo sobre arquitectura de software, patrones de diseño y mejores prácticas de desarrollo.
+
+## 🧠 ¿Qué me distingue?
+- Enfoque metódico para el diseño de soluciones end-to-end.
+- Trabajo colaborativo y comunicación efectiva con equipos multidisciplinarios.
+- Mentalidad orientada a la mejora continua y automatización de procesos.
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=El-Nava&theme=dracula&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Logros destacados" />
+</p>
+
+## 🛠️ Stack principal
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=El-Nava&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" alt="GitHub Streak" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+</div>
+
+## 📊 Métricas e insights
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=El-Nava&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" alt="Racha de contribuciones" />
 </div>
 
 <p align="center">
@@ -67,11 +116,34 @@
 </p>
 
 ## 🏗️ Proyectos destacados
-| Proyecto | Descripción | Tecnologías |
-| --- | --- | --- |
-| [Automatización de procesos con Python](https://github.com/El-Nava?tab=repositories&q=python) | Scripts y herramientas para optimizar tareas repetitivas. | Python, Automatización |
-| [Aplicaciones con .NET](https://github.com/El-Nava?tab=repositories&q=dotnet) | Desarrollo de aplicaciones de escritorio y web usando C# y .NET. | C#, .NET Core |
-| [Soluciones embebidas](https://github.com/El-Nava?tab=repositories&q=arduino) | Proyectos con microcontroladores y hardware. | Arduino, C/C++ |
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <h3>Automatización inteligente</h3>
+      <p>Scripts en Python que conectan APIs, limpian datos y eliminan tareas repetitivas para acelerar la entrega de resultados.</p>
+      <a href="https://github.com/El-Nava?tab=repositories">Ver repositorios</a>
+    </td>
+    <td>
+      <h3>Aplicaciones .NET</h3>
+      <p>Soluciones robustas con C# y .NET que cubren desde paneles administrativos hasta herramientas de escritorio para negocio.</p>
+      <a href="https://github.com/El-Nava?tab=repositories">Explorar soluciones</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Experimentos embebidos</h3>
+      <p>Prototipos con Arduino y C/C++ orientados al control de dispositivos, adquisición de datos y automatización industrial.</p>
+      <a href="https://github.com/El-Nava?tab=repositories">Descubrir proyectos</a>
+    </td>
+    <td>
+      <h3>Casos de estudio destacados</h3>
+      <p>Un vistazo curado a los repositorios que mejor ilustran mi forma de trabajar, documentar y desplegar soluciones.</p>
+      <a href="https://github.com/El-Nava?tab=repositories">Portafolio completo</a>
+    </td>
+  </tr>
+</table>
+</div>
 
 > 💡 Siempre estoy abierto a colaborar en proyectos innovadores o compartir conocimiento con la comunidad.
 
