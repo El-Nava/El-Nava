@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" role="img" aria-label="Separador decorativo">
+  <defs>
+    <linearGradient id="dividerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee" />
+      <stop offset="50%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#f472b6" />
+    </linearGradient>
+  </defs>
+  <path d="M0 20 C180 -10 360 50 540 20 C720 -10 900 50 1080 20 C1140 10 1200 20 1200 20 V40 H0 Z" fill="url(#dividerGradient)" opacity="0.65" />
+  <path d="M0 22 C180 -4 360 44 540 22 C720 -2 900 44 1080 22 C1140 12 1200 22 1200 22" stroke="url(#dividerGradient)" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.95" />
+</svg>

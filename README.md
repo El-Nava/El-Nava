@@ -1,170 +1,92 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:22D3EE&height=140&section=header&text=Jesús%20Nava&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=32&desc=Ingeniero%20en%20Sistemas%20%7C%20Desarrollador%20de%20Software&descAlignY=55&descAlign=50" alt="Jesús Nava" />
+  <img src="./assets/sections/hero.svg" alt="Jesús Nava - Ingeniero en sistemas" />
 </p>
 
-<h1 align="center">Hola, soy Jesús Nava 👋</h1>
+## ✨ En resumen
+- 👨‍💻 **Ingeniero en Sistemas** especializado en crear plataformas que conectan procesos físicos y digitales.
+- 🧭 **Lidero proyectos end-to-end**, desde la ideación hasta la puesta en marcha y el monitoreo de resultados.
+- 🌐 **Combino automatización, IoT y desarrollo de software** para acelerar equipos de negocio y tecnología.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=22&duration=3500&pause=800&center=true&vCenter=true&width=650&lines=Ingeniero+en+Sistemas+orientado+a+resultados;Diseñando+soluciones+robustas+y+escalables;Apasionado+por+automatizar+y+mejorar+procesos" alt="Presentación animada" />
+  <img src="./assets/sections/divider.svg" alt="Separador decorativo" />
 </p>
 
+## 🚀 Propuesta de valor
+| Estrategia | Ingeniería | Impacto |
+| --- | --- | --- |
+| 🎯 Diseños centrados en objetivos medibles y roadmaps claros para stakeholders. | 🛠️ Arquitecturas modulares con pruebas automatizadas y despliegues confiables. | 📈 Métricas compartidas que evidencian adopción, reducción de costos y tiempo de entrega. |
+
+## 🧰 Stack principal
 <p align="center">
-  <strong>Ingeniero en Sistemas | Desarrollador de software | Apasionado por crear soluciones tecnológicas que generan impacto</strong>
+  <img src="./assets/badges/python.svg" alt="Python" />
+  <img src="./assets/badges/csharp.svg" alt="C#" />
+  <img src="./assets/badges/dotnet.svg" alt=".NET" />
+  <img src="./assets/badges/cpp.svg" alt="C++" />
+  <img src="./assets/badges/arduino.svg" alt="Arduino" />
+  <img src="./assets/badges/sql.svg" alt="SQL y datos" />
+  <img src="./assets/badges/html.svg" alt="HTML5" />
+  <img src="./assets/badges/css.svg" alt="CSS3" />
 </p>
 
+## 📈 Impacto medible
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Divisor animado" width="75%" />
-</p>
-
-## 🚀 Sobre mí
-- 📍 Radico en Chihuahua, México.
-- 💼 Ingeniero en Sistemas enfocado en el desarrollo de aplicaciones robustas y escalables.
-- 🎯 Interesado en proyectos donde la tecnología impulsa resultados reales para las personas y los negocios.
-- 🌱 Siempre aprendiendo sobre arquitectura de software, patrones de diseño y mejores prácticas de desarrollo.
-
-## 🧠 ¿Qué me distingue?
-- Enfoque metódico para el diseño de soluciones end-to-end.
-- Trabajo colaborativo y comunicación efectiva con equipos multidisciplinarios.
-- Mentalidad orientada a la mejora continua y automatización de procesos.
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=El-Nava&theme=dracula&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Logros destacados" />
-</p>
-
-## 🛠️ Stack principal
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-</div>
-
-## 📊 Métricas e insights
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=El-Nava&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=El-Nava&layout=compact&theme=dracula&langs_count=6" height="165" alt="Top Languages" />
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=22&duration=3500&pause=800&center=true&vCenter=true&width=650&lines=Ingeniero+en+Sistemas+orientado+a+resultados;Diseñando+soluciones+robustas+y+escalables;Apasionado+por+automatizar+y+mejorar+procesos" alt="Presentación animada" />
-</p>
-
-<p align="center">
-  <strong>Ingeniero en Sistemas | Desarrollador de software | Apasionado por crear soluciones tecnológicas que generan impacto</strong>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Divisor animado" width="75%" />
-</p>
-
-## 🚀 Sobre mí
-- 📍 Radico en Chihuahua, México.
-- 💼 Ingeniero en Sistemas enfocado en el desarrollo de aplicaciones robustas y escalables.
-- 🎯 Interesado en proyectos donde la tecnología impulsa resultados reales para las personas y los negocios.
-- 🌱 Siempre aprendiendo sobre arquitectura de software, patrones de diseño y mejores prácticas de desarrollo.
-
-## 🧠 ¿Qué me distingue?
-- Enfoque metódico para el diseño de soluciones end-to-end.
-- Trabajo colaborativo y comunicación efectiva con equipos multidisciplinarios.
-- Mentalidad orientada a la mejora continua y automatización de procesos.
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=El-Nava&theme=dracula&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Logros destacados" />
-</p>
-
-## 🛠️ Stack principal
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-</div>
-
-## 📊 Métricas e insights
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=El-Nava&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" alt="Racha de contribuciones" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=El-Nava&bg_color=0f172a&color=22d3ee&line=38bdf8&point=f8fafc&area=true&hide_border=true" alt="Actividad reciente" />
+  <img src="./assets/sections/metrics.svg" alt="Resumen de experiencia, proyectos y automatizaciones" />
 </p>
 
 ## 🏗️ Proyectos destacados
 <div align="center">
-<table>
-  <tr>
-    <td>
-      <h3>Automatización inteligente</h3>
-      <p>Scripts en Python que conectan APIs, limpian datos y eliminan tareas repetitivas para acelerar la entrega de resultados.</p>
-      <a href="https://github.com/El-Nava?tab=repositories">Ver repositorios</a>
-    </td>
-    <td>
-      <h3>Aplicaciones .NET</h3>
-      <p>Soluciones robustas con C# y .NET que cubren desde paneles administrativos hasta herramientas de escritorio para negocio.</p>
-      <a href="https://github.com/El-Nava?tab=repositories">Explorar soluciones</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>Experimentos embebidos</h3>
-      <p>Prototipos con Arduino y C/C++ orientados al control de dispositivos, adquisición de datos y automatización industrial.</p>
-      <a href="https://github.com/El-Nava?tab=repositories">Descubrir proyectos</a>
-    </td>
-    <td>
-      <h3>Casos de estudio destacados</h3>
-      <p>Un vistazo curado a los repositorios que mejor ilustran mi forma de trabajar, documentar y desplegar soluciones.</p>
-      <a href="https://github.com/El-Nava?tab=repositories">Portafolio completo</a>
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>Plataformas de automatización</h3>
+        <p>Integraciones que orquestan APIs, limpian datos y activan flujos inteligentes para acelerar operaciones.</p>
+        <p><strong>Resultado:</strong> reducción de hasta 40% en tiempos de entrega y visibilidad centralizada.</p>
+        <p><a href="https://github.com/El-Nava?tab=repositories" target="_blank">Explorar entregables</a></p>
+      </td>
+      <td width="50%">
+        <h3>Aplicaciones .NET de misión crítica</h3>
+        <p>Soluciones de escritorio y web con C# y .NET, diseñadas para áreas administrativas y control industrial.</p>
+        <p><strong>Resultado:</strong> dashboards accionables, trazabilidad y despliegues automatizados.</p>
+        <p><a href="https://github.com/El-Nava?tab=repositories" target="_blank">Ver casos de éxito</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3>Experimentos embebidos</h3>
+        <p>Prototipos con Arduino y C/C++ que conectan sensores, controlan dispositivos y alimentan tableros en tiempo real.</p>
+        <p><strong>Resultado:</strong> validaciones rápidas y transferencia de conocimiento a equipos de ingeniería.</p>
+        <p><a href="https://github.com/El-Nava?tab=repositories" target="_blank">Ver prototipos</a></p>
+      </td>
+      <td width="50%">
+        <h3>Playbooks de colaboración</h3>
+        <p>Documentación clara, tableros compartidos y métricas vivas para mantener alineados a stakeholders técnicos y de negocio.</p>
+        <p><strong>Resultado:</strong> comunicación transparente y decisiones respaldadas por datos.</p>
+        <p><a href="https://github.com/El-Nava?tab=repositories" target="_blank">Descubrir herramientas</a></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-> 💡 Siempre estoy abierto a colaborar en proyectos innovadores o compartir conocimiento con la comunidad.
+## 🎯 Cómo puedo ayudarte
+- ✅ Auditorías técnicas para identificar cuellos de botella y oportunidades de automatización.
+- ✅ Diseño y desarrollo de MVPs listos para recibir feedback real de usuarios.
+- ✅ Modernización de soluciones heredadas con foco en mantenibilidad y seguridad.
+- ✅ Implementación de tableros y reportes que hacen visibles los indicadores clave.
 
 ## 🤝 Conecta conmigo
 <div align="center">
-  <a href="mailto:j.navaa15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/jesus-m-nava-c-a19a27271"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/jnava.15"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.discord.com/El-Navaa"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:j.navaa15@gmail.com"><img src="./assets/badges/gmail.svg" alt="Escríbeme por correo" /></a>
+  <a href="https://www.linkedin.com/in/jesus-m-nava-c-a19a27271" target="_blank"><img src="./assets/badges/linkedin.svg" alt="Conecta en LinkedIn" /></a>
+  <a href="https://www.instagram.com/jnava.15" target="_blank"><img src="./assets/badges/instagram.svg" alt="Inspiración en Instagram" /></a>
+  <a href="https://www.discord.com/El-Navaa" target="_blank"><img src="./assets/badges/discord.svg" alt="Hablemos en Discord" /></a>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <em>"La tecnología es la herramienta que transforma ideas en impacto."</em>
 </p>
 
 <p align="center">
-  <em>"La tecnología es más que código; es la herramienta que nos permite crear el futuro que imaginamos."</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:4C1D95&height=120&section=footer" alt="Footer wave" />
+  <img src="./assets/sections/footer.svg" alt="Ola decorativa final" />
 </p>
